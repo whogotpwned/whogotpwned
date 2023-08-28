@@ -10,4 +10,3 @@
   
 📫 How to reach me:
 - tayfunyilmaz@skiff.com
-- krypton.hbar
