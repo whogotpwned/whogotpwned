@@ -2,10 +2,10 @@
 
 <img src="tayfilmaz.png"/>
 
-  
 💸 How to support me:
 - tayfunyilmaz.eth
-- krypton.hbar
+- tayfunyilmaz.ton
+- krypton.hbar 
   
 📫 How to reach me:
 - tayfunyilmaz@skiff.com
