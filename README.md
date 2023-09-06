@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/tayfilmaz.png"/>
+<img src="tayfilmaz.png"/>
 
   
 💸 How to support me:
