@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- <script src="https://tryhackme.com/badge/2177595"></script>
-
+ <img src="https://tryhackme-badges.s3.amazonaws.com/tayfilmaz.png" alt="TryHackMe">
+ 
 🌱 I’m currently learning:
 - Clojure
 - Ruby
