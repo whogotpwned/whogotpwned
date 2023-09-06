@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/tayfilmaz.png" alt="TryHackMe"></img>
+ <script src="https://tryhackme.com/badge/2177595"></script>
 
 🌱 I’m currently learning:
 - Clojure
