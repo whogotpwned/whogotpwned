@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="tayfilmaz.png"/>
-
 💸 How to support me:
 - tayfunyilmaz.eth
 - tayfunyilmaz.ton
