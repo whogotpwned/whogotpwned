@@ -20,4 +20,11 @@
 
 <a href="https://www.buymeacoffee.com/pwned" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me Some Matcha" style="height: 60px !important;width: 217px !important;" ></a>
 
+
+### 🔥 Streaks:
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayfunyil&theme=tokyonight&hide_border=false">
+</div>
+
 Last Edited on: 12/10/2023
