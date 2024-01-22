@@ -11,12 +11,10 @@
 ### Hi there 👋
 
 💸 How to support me:
-- tayfunyilmaz.eth
-- tayfunyilmaz.ton
 - krypton.hbar 
   
 📫 How to reach me:
-- tayfunyilmaz@skiff.com
+- chalidjamaal@protonmail.com
 
 <a href="https://www.buymeacoffee.com/pwned" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me Some Matcha" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -26,7 +24,8 @@
 ### 🔥 Streaks:
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayfunyil&theme=tokyonight&hide_border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=whogotpwned&theme=tokyonight&hide_border=false">
 </div>
 
-Last Edited on: 12/10/2023
+
+Last Edited on: 22/01/2024
