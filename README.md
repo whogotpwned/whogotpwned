@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pwned</h1>
+<h1 align="center">Hi 🤙, I'm Pwned</h1>
 <h3 align="center">Security Researcher & Software Developer</h3>
 
 
