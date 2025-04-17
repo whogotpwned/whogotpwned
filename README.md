@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/JamaalChalid" target="blank"><img src="https://img.shields.io/twitter/follow/JamaalChalid?logo=twitter&style=for-the-badge" alt="JamaalChalid" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRrYm9zOXFqOGd1NWtuNG81cDNxNjIxNWJ0M2hsdTZxNG5jaTdzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoEUKzmKhBp8GcwW8r/giphy.gif">
 </a>
 
 ### Hi there 👋
