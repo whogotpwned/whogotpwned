@@ -58,7 +58,7 @@ I'm a passionate security researcher and software developer with expertise in cy
 
 <!-- Solana -->
 <div align="center">
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.png" alt="Solana" width="50"/>
+  <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png" alt="Solana" width="50"/>
   <br/>
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=3mP2tXWa2RjEdZU1HNUTmHHTnCjhWY35TuiBrnvYdTnR" alt="Solana QR"/>
   <br/>
@@ -67,7 +67,7 @@ I'm a passionate security researcher and software developer with expertise in cy
 
 <!-- Ethereum -->
 <div align="center">
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum" width="50"/>
+  <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png" alt="Ethereum" width="50"/>
   <br/>
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0x44043c71EDB5287DA849E5925787B5ea3f70ff3C" alt="Ethereum QR"/>
   <br/>
@@ -76,7 +76,7 @@ I'm a passionate security researcher and software developer with expertise in cy
 
 <!-- Bitcoin -->
 <div align="center">
-  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Bitcoin" width="50"/>
+  <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png" alt="Bitcoin" width="50"/>
   <br/>
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=bc1qk4cephhw48src2ws030luzjp6v4jfgcq2czen9" alt="Bitcoin QR"/>
   <br/>
