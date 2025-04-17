@@ -7,6 +7,12 @@
 ## 🛡️ About Me
 I'm a passionate security researcher and software developer with expertise in cybersecurity, penetration testing, and secure software development. My focus is on building robust, secure applications while contributing to the security community.
 
+<div align="center">
+  <a href="https://security.stackexchange.com/users/307956/localhostport80">
+    <img src="https://img.shields.io/badge/Security%20SE-307956%20rep-blue?logo=stackexchange&logoColor=white" alt="Security Stack Exchange"/>
+  </a>
+</div>
+
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whogotpwned&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
