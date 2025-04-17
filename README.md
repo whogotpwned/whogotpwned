@@ -94,9 +94,17 @@ I'm a passionate security researcher and software developer with expertise in cy
 </div>
 
 <div align="center">
-  <p>Or support me with a coffee ☕</p>
+  <p>Support through other platforms</p>
   <a href="https://www.buymeacoffee.com/pwned" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me Some Matcha" style="height: 60px !important;width: 217px !important;"/>
+  </a>
+  <br/><br/>
+  <a href="https://liberapay.com/WhoGotPwned/donate">
+    <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"/>
+  </a>
+  <br/>
+  <a href="https://liberapay.com/WhoGotPwned/">
+    <img src="https://img.shields.io/liberapay/receives/WhoGotPwned.svg?logo=liberapay">
   </a>
 </div>
 
