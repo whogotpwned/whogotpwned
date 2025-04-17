@@ -9,15 +9,15 @@ I'm a passionate security researcher and software developer with expertise in cy
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pwned&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwned&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayfunyilmaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunyilmaz&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pwned&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayfunyilmaz&theme=dark" alt="GitHub Streak"/>
 </div>
 
-## 🔥 Featured Projects
+## �� Featured Projects
 - **Vulnerability Research**: Active contributor to security advisories and bug bounty programs
 - **Secure Development**: Building applications with security-first principles
 - **Security Tools**: Developing and maintaining open-source security tools
