@@ -9,7 +9,7 @@ I'm a passionate security researcher and software developer with expertise in cy
 
 <div align="center">
   <a href="https://security.stackexchange.com/users/307956/localhostport80">
-    <img src="https://img.shields.io/badge/Security%20SE-307956%20rep-blue?logo=stackexchange&logoColor=white" alt="Security Stack Exchange"/>
+    <img src="https://img.shields.io/stackexchange/security/r/307956?label=Security%20SE&logo=stackexchange&logoColor=white" alt="Security Stack Exchange"/>
   </a>
 </div>
 
