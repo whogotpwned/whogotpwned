@@ -7,6 +7,16 @@
 ## 🛡️ About Me
 I'm a passionate security researcher and software developer with expertise in cybersecurity, penetration testing, and secure software development. My focus is on building robust, secure applications while contributing to the security community.
 
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pwned&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwned&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pwned&theme=dark" alt="GitHub Streak"/>
+</div>
+
 ## 🔥 Featured Projects
 - **Vulnerability Research**: Active contributor to security advisories and bug bounty programs
 - **Secure Development**: Building applications with security-first principles
