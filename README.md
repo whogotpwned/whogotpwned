@@ -59,32 +59,46 @@ I'm a passionate security researcher and software developer with expertise in cy
 <!-- Solana -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png" alt="Solana" width="50"/>
-  <br/>
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=3mP2tXWa2RjEdZU1HNUTmHHTnCjhWY35TuiBrnvYdTnR" alt="Solana QR"/>
-  <br/>
-  <code>3mP2tXWa2RjEdZU1HNUTmHHTnCjhWY35TuiBrnvYdTnR</code>
+  <br/><br/>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=3mP2tXWa2RjEdZU1HNUTmHHTnCjhWY35TuiBrnvYdTnR" alt="Solana QR" width="130"/>
+  <br/><br/>
+  <details>
+    <summary>Click to copy Solana address</summary>
+    <code>3mP2tXWa2RjEdZU1HNUTmHHTnCjhWY35TuiBrnvYdTnR</code>
+  </details>
 </div>
+
+<br/>
 
 <!-- Ethereum -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png" alt="Ethereum" width="50"/>
-  <br/>
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0x44043c71EDB5287DA849E5925787B5ea3f70ff3C" alt="Ethereum QR"/>
-  <br/>
-  <code>0x44043c71EDB5287DA849E5925787B5ea3f70ff3C</code>
+  <br/><br/>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0x44043c71EDB5287DA849E5925787B5ea3f70ff3C" alt="Ethereum QR" width="130"/>
+  <br/><br/>
+  <details>
+    <summary>Click to copy Ethereum address</summary>
+    <code>0x44043c71EDB5287DA849E5925787B5ea3f70ff3C</code>
+  </details>
 </div>
+
+<br/>
 
 <!-- Bitcoin -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png" alt="Bitcoin" width="50"/>
-  <br/>
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=bc1qk4cephhw48src2ws030luzjp6v4jfgcq2czen9" alt="Bitcoin QR"/>
-  <br/>
-  <code>bc1qk4cephhw48src2ws030luzjp6v4jfgcq2czen9</code>
+  <br/><br/>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=bc1qk4cephhw48src2ws030luzjp6v4jfgcq2czen9" alt="Bitcoin QR" width="130"/>
+  <br/><br/>
+  <details>
+    <summary>Click to copy Bitcoin address</summary>
+    <code>bc1qk4cephhw48src2ws030luzjp6v4jfgcq2czen9</code>
+  </details>
 </div>
 
+<br/>
+
 <div align="center">
-  <br/>
   <p>Or support me with a coffee ☕</p>
   <a href="https://www.buymeacoffee.com/pwned" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me Some Matcha" style="height: 60px !important;width: 217px !important;"/>
