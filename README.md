@@ -56,8 +56,10 @@ I'm a passionate security researcher and software developer with expertise in cy
 
 ### Cryptocurrency Donations
 
-<!-- Solana -->
 <div align="center">
+<table>
+<tr>
+<td align="center">
   <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png" alt="Solana" width="50"/>
   <br/><br/>
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=3mP2tXWa2RjEdZU1HNUTmHHTnCjhWY35TuiBrnvYdTnR" alt="Solana QR" width="130"/>
@@ -66,12 +68,8 @@ I'm a passionate security researcher and software developer with expertise in cy
     <summary>Click to copy Solana address</summary>
     <code>3mP2tXWa2RjEdZU1HNUTmHHTnCjhWY35TuiBrnvYdTnR</code>
   </details>
-</div>
-
-<br/>
-
-<!-- Ethereum -->
-<div align="center">
+</td>
+<td align="center">
   <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png" alt="Ethereum" width="50"/>
   <br/><br/>
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0x44043c71EDB5287DA849E5925787B5ea3f70ff3C" alt="Ethereum QR" width="130"/>
@@ -80,12 +78,8 @@ I'm a passionate security researcher and software developer with expertise in cy
     <summary>Click to copy Ethereum address</summary>
     <code>0x44043c71EDB5287DA849E5925787B5ea3f70ff3C</code>
   </details>
-</div>
-
-<br/>
-
-<!-- Bitcoin -->
-<div align="center">
+</td>
+<td align="center">
   <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png" alt="Bitcoin" width="50"/>
   <br/><br/>
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=bc1qk4cephhw48src2ws030luzjp6v4jfgcq2czen9" alt="Bitcoin QR" width="130"/>
@@ -94,9 +88,10 @@ I'm a passionate security researcher and software developer with expertise in cy
     <summary>Click to copy Bitcoin address</summary>
     <code>bc1qk4cephhw48src2ws030luzjp6v4jfgcq2czen9</code>
   </details>
+</td>
+</tr>
+</table>
 </div>
-
-<br/>
 
 <div align="center">
   <p>Or support me with a coffee ☕</p>
