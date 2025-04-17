@@ -9,7 +9,7 @@ I'm a passionate security researcher and software developer with expertise in cy
 
 <div align="center">
   <a href="https://security.stackexchange.com/users/307956/localhostport80">
-    <img src="https://img.shields.io/stackexchange/security/r/307956?label=Security%20SE&logo=stackexchange&logoColor=white" alt="Security Stack Exchange"/>
+    <img src="https://img.shields.io/stackexchange/security/r/307956?label=Security.StackExchange%20%7C%20LocalHostPort80&logo=stackexchange&logoColor=white&color=blue" alt="Security Stack Exchange"/>
   </a>
 </div>
 
