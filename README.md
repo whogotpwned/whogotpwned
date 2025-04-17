@@ -53,38 +53,37 @@ I'm a passionate security researcher and software developer with expertise in cy
 </div>
 
 ## 💰 Support My Work
+
+### Cryptocurrency Donations
+
+<!-- Solana -->
 <div align="center">
-  <h3>Cryptocurrency Donations</h3>
-  
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <!-- Solana -->
-    <div style="text-align: center;">
-      <img src="https://cryptologos.cc/logos/solana-sol-logo.png" alt="Solana" width="50"/>
-      <br/>
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=sol:3mP2tXWa2RjEdZU1HNUTmHHTnCjhWY35TuiBrnvYdTnR" alt="Solana QR" width="150"/>
-      <br/>
-      <code>3mP2tXWa2RjEdZU1HNUTmHHTnCjhWY35TuiBrnvYdTnR</code>
-    </div>
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.png" alt="Solana" width="50"/>
+  <br/>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=3mP2tXWa2RjEdZU1HNUTmHHTnCjhWY35TuiBrnvYdTnR" alt="Solana QR"/>
+  <br/>
+  <code>3mP2tXWa2RjEdZU1HNUTmHHTnCjhWY35TuiBrnvYdTnR</code>
+</div>
 
-    <!-- Ethereum -->
-    <div style="text-align: center;">
-      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum" width="50"/>
-      <br/>
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ethereum:0x44043c71EDB5287DA849E5925787B5ea3f70ff3C" alt="Ethereum QR" width="150"/>
-      <br/>
-      <code>0x44043c71EDB5287DA849E5925787B5ea3f70ff3C</code>
-    </div>
+<!-- Ethereum -->
+<div align="center">
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum" width="50"/>
+  <br/>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0x44043c71EDB5287DA849E5925787B5ea3f70ff3C" alt="Ethereum QR"/>
+  <br/>
+  <code>0x44043c71EDB5287DA849E5925787B5ea3f70ff3C</code>
+</div>
 
-    <!-- Bitcoin -->
-    <div style="text-align: center;">
-      <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Bitcoin" width="50"/>
-      <br/>
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=bitcoin:bc1qk4cephhw48src2ws030luzjp6v4jfgcq2czen9" alt="Bitcoin QR" width="150"/>
-      <br/>
-      <code>bc1qk4cephhw48src2ws030luzjp6v4jfgcq2czen9</code>
-    </div>
-  </div>
+<!-- Bitcoin -->
+<div align="center">
+  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Bitcoin" width="50"/>
+  <br/>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=bc1qk4cephhw48src2ws030luzjp6v4jfgcq2czen9" alt="Bitcoin QR"/>
+  <br/>
+  <code>bc1qk4cephhw48src2ws030luzjp6v4jfgcq2czen9</code>
+</div>
 
+<div align="center">
   <br/>
   <p>Or support me with a coffee ☕</p>
   <a href="https://www.buymeacoffee.com/pwned" target="_blank">
