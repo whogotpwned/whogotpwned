@@ -122,5 +122,5 @@ I'm a passionate security researcher and software developer with expertise in cy
 ---
 
 <div align="center">
-  <sub>Last Updated: 17/04/2025</sub>
+  <sub>Last Updated: 18/04/2025</sub>
 </div>
