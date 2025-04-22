@@ -19,10 +19,6 @@ I'm a passionate security researcher and software developer with expertise in cy
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whogotpwned&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whogotpwned&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ## 🚀 Featured Projects
 - **Vulnerability Research**: Active contributor to security advisories and bug bounty programs  
 - **Secure Development**: Building applications with security-first principles  
@@ -122,5 +118,5 @@ I'm a passionate security researcher and software developer with expertise in cy
 ---
 
 <div align="center">
-  <sub>Last Updated: 18/04/2025</sub>
+  <sub>Last Updated: 22/04/2025</sub>
 </div>
