@@ -1,7 +1,7 @@
 # 🔒 Security Researcher & Software Developer
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF6Z3BjMzRtcnZzanpocjYxbG5yNml2N3I5emlteHVuZDhwNTY3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9FtGm9VNUerkRi/giphy.gif" alt="Security GIF" width="670" height="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFvbnZkMHF1NW10ejBpMHZmeHVoajR1cHlmNmFjMnE1ZG1sc2VreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LcfBYS8BKhCvK/giphy.gif" alt="Security GIF" width="670" height="300"/>
 </div>
 
 ## 🛡️ About Me
