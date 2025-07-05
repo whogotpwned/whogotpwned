@@ -59,11 +59,13 @@ When I’m not hunting CVEs or cooking up exploits, you’ll find me pushing cod
 
 ---
 
-## 🏴 TryHackMe Badge
+## 🏴 TryHackMe
 
 <div align="center">
-  <a href="https://tryhackme.com/p/whogotpwned">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/whogotpwned.png" alt="Your Image Badge" />  
+  <a href="https://tryhackme.com/p/whogotpwned" target="_blank">
+    <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe Logo" width="100"/>
+    <br/>
+    My TryHackMe Profile
   </a>
 </div>
 
