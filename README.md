@@ -1,7 +1,8 @@
 # 🕶️ Security Researcher · Offensive Developer · Digital Defender
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFvbnZkMHF1NW10ejBpMHZmeHVoajR1cHlmNmFjMnE1ZG1sc2VreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LcfBYS8BKhCvK/giphy.gif" alt="Cybersecurity GIF" width="670" height="300"/>
+  <img src="https://i.giphy.com/3FQ87l4tXAZWGvV3yY.webp" alt="Cybersecurity GIF" width="670" height="300"/>
+  
 </div>
 
 ---
