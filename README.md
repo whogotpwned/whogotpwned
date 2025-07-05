@@ -63,7 +63,7 @@ When I’m not hunting CVEs or cooking up exploits, you’ll find me pushing cod
 
 <div align="center">
   <a href="https://tryhackme.com/p/WhoGotPwned">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/WhoGotPwned.png" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/whogotpwned.png" alt="Your Image Badge" />  
   </a>
 </div>
 
