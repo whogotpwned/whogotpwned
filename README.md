@@ -1,8 +1,9 @@
-# 🕶️ Security Researcher · Offensive Developer · Digital Defender
+---
+
+## 🕶️ Security Researcher · Offensive Developer · Digital Defender
 
 <div align="center">
   <img src="https://i.giphy.com/3FQ87l4tXAZWGvV3yY.webp" alt="Cybersecurity GIF" width="670" height="300"/>
-  
 </div>
 
 ---
@@ -54,6 +55,16 @@ When I’m not hunting CVEs or cooking up exploits, you’ll find me pushing cod
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whogotpwned&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whogotpwned&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+</div>
+
+---
+
+## 🏴 TryHackMe Badge
+
+<div align="center">
+  <a href="https://tryhackme.com/p/WhoGotPwned">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/WhoGotPwned.png" alt="TryHackMe Badge">
+  </a>
 </div>
 
 ---
