@@ -62,7 +62,7 @@ When I’m not hunting CVEs or cooking up exploits, you’ll find me pushing cod
 ## 🏴 TryHackMe Badge
 
 <div align="center">
-  <a href="https://tryhackme.com/p/WhoGotPwned">
+  <a href="https://tryhackme.com/p/whogotpwned">
     <img src="https://tryhackme-badges.s3.amazonaws.com/whogotpwned.png" alt="Your Image Badge" />  
   </a>
 </div>
