@@ -118,5 +118,9 @@ I'm a passionate security researcher and software developer with expertise in cy
 ---
 
 <div align="center">
-  <sub>Last Updated: 22/04/2025</sub>
+  <sub>Last Updated: 05/07/2025</sub>
+</div>
+
+<div align="center">
+  <a rel="me" href="https://mastodon.social/@SntlSecurity">Mastodon</a>
 </div>
