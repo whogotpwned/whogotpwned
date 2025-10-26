@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-<img src="https://i.giphy.com/3FQ87l4tXAZWGvV3yY.webp" alt="Cybersecurity GIF" width="670" height="300"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGswenFldjdhbXh0NDgzc3JjeG9icDZxajNlY2V3NXAwbXZxdHY1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif" alt="Cybersecurity GIF" width="670" height="300"/>
 
 </div>
 
