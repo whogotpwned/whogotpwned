@@ -2,10 +2,9 @@
 
 <div align="center">
   
-### 👨‍💻 *I turn coffee into exploits* ☕
   
 <!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.demolab.com/?lines=Security+Researcher;Offensive+Developer;Bug+Hunter;CVE+Discoverer;Penetration+Tester;&font=Jetbrains%20Mono&size=25&center=true&vCenter=true&width=600&height=50&color=00ff41&duration=3000&pause=1000" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Security+Researcher;Offensive+Developer;AI+Enthusiast;&font=Jetbrains%20Mono&size=25&center=true&vCenter=true&width=600&height=50&color=00ff41&duration=3000&pause=1000" />
 
 <br/>
 <br/>
@@ -127,14 +126,6 @@ When I'm not hunting CVEs or cooking up exploits, you'll find me pushing code, d
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WhoGotPwned&theme=radical&hide_border=true&bg_color=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ffff)
 
-<!-- Trophy Stats -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=WhoGotPwned&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
-
-</div>
-
-<!-- Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/WhoGotPwned/WhoGotPwned/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions"/>
 </div>
 
 <!-- Activity Graph -->
