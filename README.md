@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2x0bXBhMGt3d2RybHowYnl1djU4bGZvc2h2b2ZrY2w1dXY5bHRoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" alt="Cybersecurity GIF" width="470" height="300"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRrNTQ5OXZkb21pcWI3eGdtcjZnYzl0cDMyYjVtaTJ6N3M4ZzA5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OIKT61NWgV9w58RyAi/giphy.gif" alt="Cybersecurity GIF" width="470" height="300"/>
 
 </div>
 
@@ -118,10 +118,6 @@ When I'm not hunting CVEs or cooking up exploits, you'll find me pushing code, d
 ## 📊 <a id="github-statistics" />GitHub Statistics
 
 <div align="center">
-
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhoGotPwned&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ffff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoGotPwned&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffff&text_color=ffffff"/>
 
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WhoGotPwned&theme=radical&hide_border=true&bg_color=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ffff)
