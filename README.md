@@ -6,17 +6,19 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1b27,100:0d1117&height=200&section=header&text=WhoGotPwned&fontColor=00ff9c&fontSize=56&fontAlignY=38&desc=Security%20Researcher%20%C2%B7%20Offensive%20Developer%20%C2%B7%20AI%20Explorer&descColor=7aa2f7&descSize=18&descAlignY=58&animation=twinkling&stroke=00ff9c&strokeWidth=1" alt="header"/>
+<img width="100%" src="assets/header.svg" alt="WhoGotPwned — Security Researcher · Offensive Developer · AI Explorer"/>
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=640&lines=root%40whogotpwned%3A~%23+_;Break+it.+Understand+it.+Build+it+better.;Exploit+dev+%E2%86%92+secure+engineering;CVE+hunting+%2B+open-source+toolsmithing;AI-driven+security+automation" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=640&lines=Break+it.+Understand+it.+Build+it+better.;Exploit+dev+%E2%86%92+secure+engineering;CVE+hunting+%2B+open-source+toolsmithing;AI-driven+security+automation" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=WhoGotPwned&label=VIEWS&color=00ff9c&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/WhoGotPwned?label=FOLLOWERS&style=for-the-badge&color=7aa2f7&logo=github&logoColor=white&labelColor=0d1117" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/WhoGotPwned?label=STARS&style=for-the-badge&color=00ff9c&logo=github&logoColor=white&labelColor=0d1117" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/WhoGotPwned?label=STARS&style=for-the-badge&color=bb9af7&logo=github&logoColor=white&labelColor=0d1117" alt="Stars"/>
 
 <br/><br/>
 
@@ -24,12 +26,15 @@
 &nbsp;<a href="#-stack"><img src="https://img.shields.io/badge/stack-0d1117?style=flat-square&logo=stackblitz&logoColor=7aa2f7"/></a>
 &nbsp;<a href="#-focus"><img src="https://img.shields.io/badge/focus-0d1117?style=flat-square&logo=target&logoColor=f7768e"/></a>
 &nbsp;<a href="#-stats"><img src="https://img.shields.io/badge/stats-0d1117?style=flat-square&logo=githubactions&logoColor=e0af68"/></a>
+&nbsp;<a href="#-latest-activity"><img src="https://img.shields.io/badge/activity-0d1117?style=flat-square&logo=git&logoColor=9ece6a"/></a>
 &nbsp;<a href="#-connect"><img src="https://img.shields.io/badge/connect-0d1117?style=flat-square&logo=matrix&logoColor=bb9af7"/></a>
 &nbsp;<a href="#-support"><img src="https://img.shields.io/badge/support-0d1117?style=flat-square&logo=ethereum&logoColor=00ff9c"/></a>
 
 </div>
 
 <br/>
+
+<img width="100%" src="assets/divider.svg" alt=""/>
 
 ## 🧬 Whoami
 
@@ -74,6 +79,8 @@ I write exploits *and* the patches for them. When I'm not hunting CVEs, I'm buil
 
 <br/>
 
+<img width="100%" src="assets/divider.svg" alt=""/>
+
 ## ⚡ Stack
 
 <div align="center">
@@ -98,6 +105,8 @@ I write exploits *and* the patches for them. When I'm not hunting CVEs, I'm buil
 </div>
 
 <br/>
+
+<img width="100%" src="assets/divider.svg" alt=""/>
 
 ## 🎯 Focus
 
@@ -147,6 +156,8 @@ CVE Hunting
 
 <br/>
 
+<img width="100%" src="assets/divider.svg" alt=""/>
+
 ## 📊 Stats
 
 <div align="center">
@@ -170,6 +181,19 @@ CVE Hunting
 
 <br/>
 
+<img width="100%" src="assets/divider.svg" alt=""/>
+
+## 🔥 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>Auto-updated every 6 hours by GitHub Actions.</sub>
+
+<br/>
+
+<img width="100%" src="assets/divider.svg" alt=""/>
+
 ## 🚩 TryHackMe
 
 <div align="center">
@@ -181,6 +205,8 @@ CVE Hunting
 </div>
 
 <br/>
+
+<img width="100%" src="assets/divider.svg" alt=""/>
 
 ## 🌐 Connect
 
@@ -202,6 +228,8 @@ CVE Hunting
 </div>
 
 <br/>
+
+<img width="100%" src="assets/divider.svg" alt=""/>
 
 ## 💜 Support
 
@@ -225,7 +253,7 @@ If my tools or research saved you time, you can fuel the next one with ETH:
 
 <br/>
 
----
+<img width="100%" src="assets/divider.svg" alt=""/>
 
 <div align="center">
 
@@ -235,10 +263,8 @@ If my tools or research saved you time, you can fuel the next one with ETH:
   <img src="https://raw.githubusercontent.com/WhoGotPwned/WhoGotPwned/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </picture>
 
-<br/>
+<br/><br/>
 
 <sub><b>Hacking the planet, one commit at a time.</b></sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1b27,100:0d1117&height=120&section=footer" alt="footer"/>
 
 </div>
