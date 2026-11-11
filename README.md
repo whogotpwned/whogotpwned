@@ -215,9 +215,6 @@ CVE Hunting
 <a href="https://twitter.com/JamaalChalid" target="_blank">
   <img src="https://img.shields.io/badge/X_/_Twitter-@JamaalChalid-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter"/>
 </a>
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-</a>
 <a href="https://security.stackexchange.com/users/307956/localhostport80" target="_blank">
   <img src="https://img.shields.io/badge/Security_SE-localhost%3A80-F48024?style=for-the-badge&logo=stackexchange&logoColor=white&labelColor=0d1117" alt="Security Stack Exchange"/>
 </a>
