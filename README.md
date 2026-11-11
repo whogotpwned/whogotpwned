@@ -162,20 +162,15 @@ CVE Hunting
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WhoGotPwned&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=7aa2f7&text_color=c0caf5&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoGotPwned&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c0caf5&langs_count=8" alt="Top Languages" height="170"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhoGotPwned&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=7aa2f7&sideLabels=7aa2f7&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WhoGotPwned&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=00ff9c&point=00ff9c&area=true&area_color=00ff9c" alt="Activity Graph" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=WhoGotPwned&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WhoGotPwned/WhoGotPwned/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WhoGotPwned/WhoGotPwned/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/WhoGotPwned/WhoGotPwned/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</picture>
 
 </div>
 
@@ -253,14 +248,6 @@ If my tools or research saved you time, you can fuel the next one with ETH:
 <img width="100%" src="assets/divider.svg" alt=""/>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WhoGotPwned/WhoGotPwned/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WhoGotPwned/WhoGotPwned/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/WhoGotPwned/WhoGotPwned/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</picture>
-
-<br/><br/>
 
 <sub><b>Hacking the planet, one commit at a time.</b></sub>
 
