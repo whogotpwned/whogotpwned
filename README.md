@@ -1,221 +1,234 @@
 <!--
-  ┌──────────────────────────────────────────────────────────┐
-  │  █▀▀ █ █ █▀▀█ █▀▀█ █▀▀█   █▀▀ █▀▀█ █  █ █▀▀ █▀▀█    │
-  │  █▀▀ █ █ █▄▄█ █▄▄█ █▄▄▀   █▀▀ █▄▄█ █▄▄█ ▀▀█ █▄▄█    │
-  │  ▀▀▀ ▀▀▀ ▀  ▀ ▀  ▀ ▀ ▀▀   ▀▀▀ ▀  ▀ ▀ ▀▀ ▀▀▀ ▀  ▀    │
-  │  Security Researcher · Offensive Developer · AI Explorer  │
-  └──────────────────────────────────────────────────────────┘
+  ╔══════════════════════════════════════════════════════╗
+  ║  WhoGotPwned · Security Researcher · Offensive Dev   ║
+  ╚══════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<!-- Header banner with glow effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0a0f1a&height=180&section=header&text=WhoGotPwned&fontColor=00ff41&fontSize=48&fontAlignY=35&desc=Security%20Researcher%20%7C%20Offensive%20Developer%20%7C%20AI%20Enthusiast&descColor=00ffff&descSize=16&descAlignY=55&animation=fadeIn&stroke=00ff4130" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1b27,100:0d1117&height=200&section=header&text=WhoGotPwned&fontColor=00ff9c&fontSize=56&fontAlignY=38&desc=Security%20Researcher%20%C2%B7%20Offensive%20Developer%20%C2%B7%20AI%20Explorer&descColor=7aa2f7&descSize=18&descAlignY=58&animation=twinkling&stroke=00ff9c&strokeWidth=1" alt="header"/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Breaking+things+to+make+them+better;Offensive+security+%2B+secure+engineering;CVE+hunter+%2B+open-source+toolsmith;Building+exploits+and+patching+them+too" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=640&lines=root%40whogotpwned%3A~%23+_;Break+it.+Understand+it.+Build+it+better.;Exploit+dev+%E2%86%92+secure+engineering;CVE+hunting+%2B+open-source+toolsmithing;AI-driven+security+automation" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- Badges row -->
-<img src="https://komarev.com/ghpvc/?username=WhoGotPwned&label=VISITORS&color=00ff41&style=flat-square&labelColor=0D1117" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/WhoGotPwned?label=FOLLOWERS&style=flat-square&color=00ffff&logo=github&labelColor=0D1117" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/WhoGotPwned?label=STARS&style=flat-square&color=00ff41&labelColor=0D1117" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=WhoGotPwned&label=VIEWS&color=00ff9c&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/WhoGotPwned?label=FOLLOWERS&style=for-the-badge&color=7aa2f7&logo=github&logoColor=white&labelColor=0d1117" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/WhoGotPwned?label=STARS&style=for-the-badge&color=00ff9c&logo=github&logoColor=white&labelColor=0d1117" alt="Stars"/>
+
+<br/><br/>
+
+<a href="#-whoami"><img src="https://img.shields.io/badge/whoami-0d1117?style=flat-square&logo=linux&logoColor=00ff9c"/></a>
+&nbsp;<a href="#-stack"><img src="https://img.shields.io/badge/stack-0d1117?style=flat-square&logo=stackblitz&logoColor=7aa2f7"/></a>
+&nbsp;<a href="#-focus"><img src="https://img.shields.io/badge/focus-0d1117?style=flat-square&logo=target&logoColor=f7768e"/></a>
+&nbsp;<a href="#-stats"><img src="https://img.shields.io/badge/stats-0d1117?style=flat-square&logo=githubactions&logoColor=e0af68"/></a>
+&nbsp;<a href="#-connect"><img src="https://img.shields.io/badge/connect-0d1117?style=flat-square&logo=matrix&logoColor=bb9af7"/></a>
+&nbsp;<a href="#-support"><img src="https://img.shields.io/badge/support-0d1117?style=flat-square&logo=ethereum&logoColor=00ff9c"/></a>
+
+</div>
 
 <br/>
-<br/>
 
-</div>
-
----
-
-### <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="28"/> Whoami
-
-```yaml
-handle: WhoGotPwned
-role: Security Researcher & Offensive Developer
-location: "Somewhere between /dev/null and root"
-interests:
-  - Vulnerability Research & Bug Bounty
-  - Red Team / Penetration Testing
-  - Secure-by-Design Software Engineering
-  - AI-Driven Security Automation
-motto: "Break it. Understand it. Build it better."
-```
-
-I live at the intersection of offensive security, open-source, and secure-by-design software engineering. When I'm not hunting CVEs or cooking up exploits, you'll find me pushing code, dropping knowledge, and helping folks harden their digital frontiers.
-
-<details>
-<summary><b>🎯 Quick Facts</b></summary>
-
-- **Vulnerability Researcher** — Active in bug bounty and security advisories
-- **Secure Coder** — Write exploits *and* patch them
-- **Toolsmith** — Build open-source tools for pentesters & defenders alike
-- **AI Explorer** — Leveraging machine learning for offensive & defensive automation
-
-</details>
-
----
-
-### <img src="https://media.giphy.com/media/qgQU5MEQOAX2Q/giphy.gif" width="28"/> Tech Arsenal
-
-<details>
-<summary><b>Languages</b></summary>
-<br>
-<div align="center">
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</div>
-</details>
-
-<details>
-<summary><b>Security Tools</b></summary>
-<br>
-<div align="center">
-
-![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-</div>
-</details>
-
-<details>
-<summary><b>Platforms & Infra</b></summary>
-<br>
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-</div>
-</details>
-
----
-
-### <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="28"/> Focus Areas
+## 🧬 Whoami
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-**🔴 Offensive**
-- Penetration Testing
-- Exploit Development
-- Red Team Operations
-- Web & API Security
+```bash
+$ cat ~/.profile
+
+handle    : WhoGotPwned
+role      : Security Researcher & Offensive Developer
+location  : somewhere between /dev/null and root
+uptime    : hunting bugs since before it was cool
+
+interests :
+  ├── Vulnerability Research & Bug Bounty
+  ├── Red Team / Penetration Testing
+  ├── Secure-by-Design Engineering
+  └── AI-Driven Security Automation
+
+motto     : "Break it. Understand it. Build it better."
+```
 
 </td>
-<td width="50%">
+<td width="45%" valign="top">
 
-**🔵 Defensive**
-- Secure Code Review
-- Cryptography
-- Incident Response
-- Threat Modeling
+**I live at the intersection of offensive security, open source and secure-by-design engineering.**
+
+I write exploits *and* the patches for them. When I'm not hunting CVEs, I'm building tools for pentesters and defenders, pushing code, and helping people harden their digital frontier.
+
+<br/>
+
+- 🔍 &nbsp;Active in **bug bounty** & security advisories
+- 🛠️ &nbsp;**Toolsmith** for red & blue teams
+- 🤖 &nbsp;Exploring **AI for offense & defense**
+- 📖 &nbsp;Always learning, always breaking stuff
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### <img src="https://media.giphy.com/media/KzP7jI4LMLSkFJ2Cb2/giphy.gif" width="28"/> GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WhoGotPwned&theme=dark&hide_border=true&bg_color=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ffff&sideLabels=00ffff&dates=5C5C5C" alt="GitHub Streak" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=WhoGotPwned&show_icons=true&theme=dark&bg_color=0D1117&title_color=00ff41&icon_color=00ffff&text_color=8B949E&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-
-</div>
+## ⚡ Stack
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WhoGotPwned&theme=redical&hide_border=true&bg_color=0D1117&color=00ff41&line=00ffff&point=00ff41&area=true&area_color=00ff4115" alt="Activity Graph"/>
+**Languages**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,python,go,rust,js,ts,bash&theme=dark&perline=8" alt="Languages"/></a>
+
+**Platforms & Infra**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nodejs,git,github,vscode,nginx&theme=dark&perline=8" alt="Infra"/></a>
+
+**Security Tooling**
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Ghidra-E7001F?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra"/>
 
 </div>
 
----
+<br/>
 
-### <img src="https://media.giphy.com/media/WoWnmQlVAGt3m/giphy.gif" width="28"/> TryHackMe
+## 🎯 Focus
+
+<table align="center">
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🔴 Offensive
+
+<br/>
+
+Penetration Testing<br/>
+Exploit Development<br/>
+Red Team Operations<br/>
+Web & API Security<br/>
+Reverse Engineering
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🔵 Defensive
+
+<br/>
+
+Secure Code Review<br/>
+Threat Modeling<br/>
+Incident Response<br/>
+Hardening & Detection<br/>
+Applied Cryptography
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🟣 Research
+
+<br/>
+
+Vulnerability Research<br/>
+Bug Bounty<br/>
+AI-Assisted Security<br/>
+Open-Source Tooling<br/>
+CVE Hunting
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=WhoGotPwned&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=7aa2f7&text_color=c0caf5&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoGotPwned&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c0caf5&langs_count=8" alt="Top Languages" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WhoGotPwned&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=7aa2f7&sideLabels=7aa2f7&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WhoGotPwned&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=00ff9c&point=00ff9c&area=true&area_color=00ff9c" alt="Activity Graph" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=WhoGotPwned&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+## 🚩 TryHackMe
 
 <div align="center">
 
 <a href="https://tryhackme.com/p/whogotpwned" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-WhoGotPwned-00ff41?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117" alt="TryHackMe Profile"/>
+  <img src="https://img.shields.io/badge/TryHackMe-WhoGotPwned-00ff9c?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" alt="TryHackMe Profile"/>
 </a>
 
 </div>
 
----
+<br/>
 
-### <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="28"> Connect
+## 🌐 Connect
 
 <div align="center">
 
 <a href="https://twitter.com/JamaalChalid" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-@JamaalChalid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/X_/_Twitter-@JamaalChalid-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter"/>
 </a>
 <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
 </a>
-<a href="https://security.stackexchange.com/users/307956/localhostport80">
-  <img src="https://img.shields.io/badge/SecStackExchange-localhost%3A80-00ff41?style=for-the-badge&logo=stackexchange&logoColor=white&labelColor=0D1117" alt="Security Stack Exchange"/>
+<a href="https://security.stackexchange.com/users/307956/localhostport80" target="_blank">
+  <img src="https://img.shields.io/badge/Security_SE-localhost%3A80-F48024?style=for-the-badge&logo=stackexchange&logoColor=white&labelColor=0d1117" alt="Security Stack Exchange"/>
 </a>
 <a href="mailto:chalidjamaal@protonmail.com">
-  <img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" alt="Email"/>
 </a>
 
 </div>
 
----
+<br/>
 
-### ☕ Support My Work
+## 💜 Support
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/pwned" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 50px !important;"/>
+If my tools or research saved you time, you can fuel the next one with ETH:
+
+<br/>
+
+<a href="https://etherscan.io/address/0xD6ab356E1174F3C21fFfe85831512C5F915Fcf2c" target="_blank">
+  <img src="https://img.shields.io/badge/Ethereum-0xD6ab356E1174F3C21fFfe85831512C5F915Fcf2c-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117" alt="ETH Address"/>
 </a>
-<a href="https://liberapay.com/WhoGotPwned/donate">
-  <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" style="height: 50px;"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/liberapay/receives/WhoGotPwned.svg?logo=liberapay&labelColor=0D1117&color=00ff41" alt="Liberapay"/>
+
+```
+0xD6ab356E1174F3C21fFfe85831512C5F915Fcf2c
+```
+
+<sub>ETH & ERC-20 tokens · Ethereum mainnet</sub>
 
 </div>
 
-<details>
-<summary><b>🪙 Crypto Wallets</b></summary>
-
-<div align="center">
-
-| <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png" width="24"> Solana | <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png" width="24"> Ethereum | <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png" width="24"> Bitcoin |
-|:---:|:---:|:---:|
-| <img src="https://api.qrserver.com/v1/create-qr-code/?size=130x130&data=3mP2tXWa2RjEdZU1HNUTmHHTnCjhWY35TuiBrnvYdTnR" width="100"> | <img src="https://api.qrserver.com/v1/create-qr-code/?size=130x130&data=0x44043c71EDB5287DA849E5925787B5ea3f70ff3C" width="100"> | <img src="https://api.qrserver.com/v1/create-qr-code/?size=130x130&data=bc1qk4cephhw48src2ws030luzjp6v4jfgcq2czen9" width="100"> |
-| `3mP2t...dTnR` | `0x4404...0ff3C` | `bc1qk...czen9` |
-
-</div>
-</details>
+<br/>
 
 ---
 
 <div align="center">
 
-<!-- Snake animation contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WhoGotPwned/WhoGotPwned/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WhoGotPwned/WhoGotPwned/output/github-contribution-grid-snake.svg" />
@@ -226,6 +239,6 @@ I live at the intersection of offensive security, open-source, and secure-by-des
 
 <sub><b>Hacking the planet, one commit at a time.</b></sub>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1b27,100:0d1117&height=120&section=footer" alt="footer"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0a0f1a&height=120&section=footer" />
+</div>
