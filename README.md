@@ -228,6 +228,12 @@ If my tools or research saved you time, you can fuel the next one with ETH:
 
 <br/>
 
+<a href="https://coindrop.to/whogotpwned" target="_blank">
+  <img src="https://img.shields.io/badge/Coindrop-Tip_me_in_crypto-00ff9c?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117" alt="Coindrop"/>
+</a>
+
+<br/><br/>
+
 <a href="https://etherscan.io/address/0xD6ab356E1174F3C21fFfe85831512C5F915Fcf2c" target="_blank">
   <img src="assets/eth-qr.svg" width="160" alt="QR code for ETH address"/>
 </a>
