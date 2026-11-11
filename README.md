@@ -181,6 +181,9 @@ CVE Hunting
 ## 🔥 Latest Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/whogotpwned/whogotpwned/pull/1) in [whogotpwned/whogotpwned](https://github.com/whogotpwned/whogotpwned)
+2. 💪 Opened PR [#1](https://github.com/whogotpwned/whogotpwned/pull/1) in [whogotpwned/whogotpwned](https://github.com/whogotpwned/whogotpwned)
+3. ❗ Opened issue [#3](https://github.com/dragosol/hyprdrive-omarchy/issues/3) in [dragosol/hyprdrive-omarchy](https://github.com/dragosol/hyprdrive-omarchy)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated every 6 hours by GitHub Actions.</sub>
