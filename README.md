@@ -210,14 +210,8 @@ CVE Hunting
 
 <div align="center">
 
-<a href="https://twitter.com/JamaalChalid" target="_blank">
-  <img src="https://img.shields.io/badge/X_/_Twitter-@JamaalChalid-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter"/>
-</a>
 <a href="https://security.stackexchange.com/users/307956/localhostport80" target="_blank">
   <img src="https://img.shields.io/badge/Security_SE-localhost%3A80-F48024?style=for-the-badge&logo=stackexchange&logoColor=white&labelColor=0d1117" alt="Security Stack Exchange"/>
-</a>
-<a href="mailto:chalidjamaal@protonmail.com">
-  <img src="https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" alt="Email"/>
 </a>
 
 </div>
@@ -235,6 +229,12 @@ If my tools or research saved you time, you can fuel the next one with ETH:
 <br/>
 
 <a href="https://etherscan.io/address/0xD6ab356E1174F3C21fFfe85831512C5F915Fcf2c" target="_blank">
+  <img src="assets/eth-qr.svg" width="160" alt="QR code for ETH address"/>
+</a>
+
+<br/><br/>
+
+<a href="https://etherscan.io/address/0xD6ab356E1174F3C21fFfe85831512C5F915Fcf2c" target="_blank">
   <img src="https://img.shields.io/badge/Ethereum-0xD6ab356E1174F3C21fFfe85831512C5F915Fcf2c-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117" alt="ETH Address"/>
 </a>
 
@@ -242,7 +242,7 @@ If my tools or research saved you time, you can fuel the next one with ETH:
 0xD6ab356E1174F3C21fFfe85831512C5F915Fcf2c
 ```
 
-<sub>ETH & ERC-20 tokens · Ethereum mainnet</sub>
+<sub>ETH & ERC-20 tokens · Ethereum mainnet · scan or copy</sub>
 
 </div>
 
