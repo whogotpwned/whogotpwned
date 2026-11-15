@@ -181,9 +181,9 @@ CVE Hunting
 ## 🔥 Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/whogotpwned/omafile/issues/7) in [whogotpwned/omafile](https://github.com/whogotpwned/omafile)
-2. ❗ Opened issue [#6](https://github.com/whogotpwned/omafile/issues/6) in [whogotpwned/omafile](https://github.com/whogotpwned/omafile)
-3. ❗ Opened issue [#5](https://github.com/whogotpwned/omafile/issues/5) in [whogotpwned/omafile](https://github.com/whogotpwned/omafile)
+1. 🔒 Closed issue [#6](https://github.com/whogotpwned/omafile/issues/6) in [whogotpwned/omafile](https://github.com/whogotpwned/omafile)
+2. 🔒 Closed issue [#5](https://github.com/whogotpwned/omafile/issues/5) in [whogotpwned/omafile](https://github.com/whogotpwned/omafile)
+3. 🔒 Closed issue [#4](https://github.com/whogotpwned/omafile/issues/4) in [whogotpwned/omafile](https://github.com/whogotpwned/omafile)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated every 6 hours by GitHub Actions.</sub>
